@@ -1,0 +1,10 @@
+Agenda:
+1. Introduction to Apache Arrow
+2. Installation of PyArrow
+3. Reading and Writing Data
+4. Creating Apache Arrow Objects using PyArrow
+5. Understading Schema in Apache Arrow
+6. Data Manipulation
+7. Apache Flight (Optional)
+
+Reference: https://arrow.apache.org/cookbook/py/
